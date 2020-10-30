@@ -1,0 +1,16 @@
+.card-curso{
+    height: 345px;
+    width: 230px;
+    background-color: #ef3a4c;
+    margin:10px;
+}
+.card-curso .img{
+    height: 230px;
+    width: 230px;
+    background-color: #24ff48;
+
+}
+button{
+    width: 94px;
+    margin:5px;
+}

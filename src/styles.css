@@ -1,0 +1,39 @@
+.content{
+    padding: 20px;
+}
+
+.content .border{
+    border: 6px solid #24ff48!important;   
+    
+    background-color: #fff;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title h2{
+    background-color: #ef3a4c;
+    margin-top: -27px;
+    padding:5px;
+    padding-left: 20px;
+    color:#fff;
+    transform: skew(5deg,5deg); /* Standard syntax */
+
+padding-right: 20px;
+}
+
+.line{
+    height: 2px;
+    width: 100%;
+}
+
+
+
+.list-horizontal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+    overflow-x: auto;
+}
